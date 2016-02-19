@@ -1,0 +1,25 @@
+#splash {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#hero {
+  padding: 2rem;
+}
+
+#hero > h1 {
+  font-family: "Nothing You Could Do", sans-serif;
+  font-size: 10rem;
+}
+
+#hero > div {
+  text-align: center;
+}
+
+#hero > div > a {
+  font-size: 2.5rem;
+  color: #555555;
+  margin: 1em;
+}
